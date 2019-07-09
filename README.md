@@ -9,3 +9,5 @@ Classifiers:
 - Naive Bayes
 - SVM
 - Decision Trees
+
+We use each classifier twice with different arguments in order to see how well it behaves.
